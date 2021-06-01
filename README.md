@@ -6,7 +6,7 @@
 - 게시판(글쓰기, 읽기)
 - 댓글(ForeignKey사용)
 - 순수하게 장고에 처음 제공되는 기능만을 사용하여 복습용으로 제작하였습니다.
-
+- 배포 url: http://leeceo97.pythonanywhere.com/
 
 ### Model Composition
 
