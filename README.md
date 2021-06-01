@@ -1,4 +1,4 @@
-# 캠퍼스픽 API (Django REST Framework)
+# 커뮤니티 (Django)
 
 ### ✏ Description
 
